@@ -1,3 +1,4 @@
+"""
 import logging
 logger = logging.getLogger(__name__)
 
@@ -20,3 +21,4 @@ async def forward(client, message):
             await asyncio.sleep(1)
    except Exception as e:
       logger.exception(e)
+"""
