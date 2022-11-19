@@ -21,8 +21,7 @@ class channelforward(Client, Config):
             bot_token=self.BOT_TOKEN,
             api_id=self.API_ID,
             api_hash=self.API_HASH,
-            workers=20,
-            plugins={'root': 'Plugins'}
+            workers=20,            
         )
 
     async def start(self):
