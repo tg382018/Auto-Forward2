@@ -8,7 +8,7 @@ A Simple telegram bot written in python to forward your files from one channel t
 You can deploy this code any where you want but we provided heroku and railway deploy methods below
 
 - Select one of the methods
-     - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/auto-caption-bot)
+     - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/0AIB/Auto-Forward-Bot)
 
      - [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/wEf927)
 
@@ -31,8 +31,8 @@ You can deploy this code any where you want but we provided heroku and railway d
 
 
 ## How to reach Me ?
-<a href="https://telegram.dog/Ns_bot_updates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Ns_Bot_supporters"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/DFF_UPDATES"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/LxChatGroup"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## COMMANDS
 ### AVAILABLE COMMANDS 
@@ -46,12 +46,6 @@ about - to know about me
 
 ## License
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT/blob/main/LICENSE)
-
-## Status
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT/tree/main)
-![Forks](https://img.shields.io/github/forks/Ns-AnoNymouS/TG-CONVERT-BOT)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ns-AnoNymouS&theme=blue-green)
-[![Anonymous's github stats](https://github-readme-stats.vercel.app/api?username=Ns-AnoNymouS&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Thanks and credits
