@@ -7,8 +7,8 @@
         "auto",
         "forward"
     ],
-    "success_url": "https://telegram.dog/Autoforward_Nsbot",
-    "repository": "https://github.com/Ns-AnoNymouS/Auto-Forward-Bot",
+    "success_url": "https://telegram.dog/Hollywood_0980",
+    "repository": "https://github.com/0AIB/Auto-Forward-Bot",
     "env": {        
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
