@@ -1,13 +1,13 @@
 class Translation(object):
 
       # Start text
-      START = "Hi I am a channel auto forward bot clone of <a href='https://t.me/Autoforward_Nsbot'>Channel Automatic NS bot</a>. \nMake your own bot now 👉 Source code \n\n<b>Support Channel and Groups:</b>\n @Ns_bot_updates, @Ns_Bot_supporters"             
+      START = "Hi there! I am a channel auto forward bot. I can forward new messages & Media from one channel to another.\n\n• Source code:<b/> <b><a href='https://github.com/0AIB/Auto-Forward-Bot'>Auto Forward Bot</a><b/>"             
 
       #About text
       ABOUT = """
 <b>📝 Language:</b> Python 3
 <b>🧰 Framework:</b> Pyrogram
-<b>👨‍💻 Developer:</b> 𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬
-<b>📢 Channel:</b> NS BOT UPDATES
-<b>👥 Group:</b> Ns BOT SUPPORT
-<b>🌐Source Code:</b> Press Me 🥰"""
+<b>👨‍💻 Developer:</b> @LxChatGroup
+<b>📢 Channel:</b> @DFF_UPDATES
+<b>👥 Group:</b> @Hollywood_0980
+<b>🌐Source Code:</b> https://github.com/0AIB/Auto-Forward-Bot"""
