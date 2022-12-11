@@ -10,8 +10,8 @@ from translation import Translation
 url_button=InlineKeyboardMarkup(
         [
               [
-                  InlineKeyboardButton("⚙ UPDATE CHANNE", url='https://t.me/DFF_UPDATES'), 
-                  InlineKeyboardButton("⭕️ SOURCE", url='https://github.com/0AIB/Auto-Forward-Bot')
+                  InlineKeyboardButton("TRUVA", url='https://t.me/truva0'), 
+                  InlineKeyboardButton("GateTR", url='https://t.me/Gate_TR')
               ]
         ]
 ) 
